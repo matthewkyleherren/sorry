@@ -3510,3 +3510,7 @@ body > header > div.style_header_right__U3ZMA > a:nth-child(2) {
  footer {
     display: none !important;
 }
+
+.styles_missionItem_link__1kba3, .styles_missionItem_btn__pGl3H {
+    display: none !important;
+}
